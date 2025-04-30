@@ -17,12 +17,9 @@ A simple, user-friendly To-Do List web application built using **HTML**, **CSS**
 - **JavaScript** – Logic and interactivity
 - **localStorage** – Persistent data storage in the browser
 
-## 💻 Live Demo
-
-[Click here to try it out](https://your-demo-link.com) *(Replace with actual link if deployed)*
 
 ## 📦 How to Run Locally
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/todo-list.git
+   git clone https://github.com/Nyayabrata01/To-Do-List.git
